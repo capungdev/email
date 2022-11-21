@@ -1,0 +1,36 @@
+/*! Aaan Fauzi v1.0.0 | (c) Css Foundation and other contributors | https://cdn.jsdelivr.net/gh/aanfauzi/npm@main/LICENSE */
+.afo_mail-sm .afo_mail-sm-bot, .removebutton{
+    gap: 5px;
+    padding: 1em;
+    outline: none;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    border-radius: 20px;
+    border: none;
+	background:rgb(255 255 255 / 63%);
+}
+input#afo-EMAIL {
+    gap: 5px;
+    padding: 1em;
+    outline: none;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    border-radius: 20px;
+    border: 1px solid #eee;
+    background: #ffffff;
+    box-shadow: 5px 5px 15px rgb(79 7 255 / 10%);
+}
+.afo_mail-button-sm, .removebutton {
+    text-align: center;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 13px;
+    color: #fff;
+    border: none;
+    background-image: linear-gradient(310deg,#7928ca,#ff0080);
+    border-radius: 40px;
+    overflow: hidden;
+	text-transform: uppercase;
+}
