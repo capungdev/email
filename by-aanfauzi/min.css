@@ -8,7 +8,6 @@
     grid-template-columns: 3fr 1fr;
     border-radius: 20px;
     border: none;
-	background:rgb(255 255 255 / 63%);
 }
 input#afo-EMAIL {
     gap: 5px;
@@ -29,7 +28,6 @@ input#afo-EMAIL {
     font-size: 13px;
     color: #fff;
     border: none;
-    background-image: linear-gradient(310deg,#7928ca,#ff0080);
     border-radius: 40px;
     overflow: hidden;
 	text-transform: uppercase;
